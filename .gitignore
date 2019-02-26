@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/packages
+/UmbracoV8/App_Data/NuGetBackup/20190226-090854
+/UmbracoV8/bin
+/UmbracoV8/obj/Debug
+/UmbracoV8/Umbraco
+/UmbracoV8/App_Data/cache/e/a/e/b/b/5
+/UmbracoV8/App_Data/Logs
+/UmbracoV8/App_Data/Models
+/UmbracoV8/App_Data/packages
+/UmbracoV8/App_Data/TEMP
